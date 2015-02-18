@@ -1,1 +1,1 @@
-web:Meteor
+web: node main.js
